@@ -1,11 +1,11 @@
 # What drives the price of a car?
 
-## Task at Hand
+## 1 Task at Hand
 
   Identifying the key drivers for predicting the prices of used cars and what the customers look for when buying a car and how the second-hand dealer should stock his 
   inventory basis these recommendations.
 
-## Data Preparation
+## 2 Data Preparation
 
   2.1 Analysed the missing data and existing columns in the supplied data
 
@@ -24,7 +24,7 @@
   2.8 A correlation plot of the data showed that the price of car has the highest positive correlation to the model of the car and the highest negative                       correlation to odometer reading.
 
 
-## Modeling
+## 3 Modeling
 
   3.1 The sklearn library was used along with pipeline and GridSearchCV to find the best model and the alpha parameter.
 
@@ -35,7 +35,7 @@
   3.4 Permuation Importance was also used to determine the factors impacting the price prediction and the top 3 factors were found to be model of the car, odometer and       transmission
 
 
-## Conclusions
+## 4 Conclusions
 
   4.1 Top selling models are f-150, silverado and camry. Maintaining stock in these models is recommended as they are the best-selling second hand car models
 
