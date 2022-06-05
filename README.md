@@ -22,12 +22,12 @@ What drives the price of a car?
 
   2.7 TargetEncoder is then used to convert the categorical variables to numeric. This reduces the dimensionality of the dataset as opposed to using onehotencoder.
 
-  2.8 A correlation plot of the data showed that the price of car has the highest positive correlation to the model of the car and the highest negative correlation to      the year of manufacturing.
+  2.8 A correlation plot of the data showed that the price of car has the highest positive correlation to the model of the car and the highest negative                       correlation to odometer reading.
 
 
 3. Modeling
 
-  3.1 The sklearn library was used along with pipeline and GridSearchCV to find the best modela and the alpha parameter.
+  3.1 The sklearn library was used along with pipeline and GridSearchCV to find the best model and the alpha parameter.
 
   3.2 Ridge and lasso regression models were searched and the best estimator was found to be the Lasso Regressor with an alpha of 0.01.
 
