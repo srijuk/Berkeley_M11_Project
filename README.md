@@ -26,7 +26,7 @@
 
 ## Modeling
 
-  ### 3.1 The sklearn library was used along with pipeline and GridSearchCV to find the best model and the alpha parameter.
+  3.1 The sklearn library was used along with pipeline and GridSearchCV to find the best model and the alpha parameter.
 
   3.2 Ridge and lasso regression models were searched and the best estimator was found to be the Lasso Regressor with an alpha of 0.01.
 
