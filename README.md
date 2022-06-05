@@ -2,7 +2,7 @@ What drives the price of a car?
 
 1. Task at Hand
 
-  Identifying the key drivers for predicting the prices of used cars and what the customers look for when buying a car and how the second-hnd dealer should stock his 
+  Identifying the key drivers for predicting the prices of used cars and what the customers look for when buying a car and how the second-hand dealer should stock his 
   inventory basis these recommendations.
 
 
